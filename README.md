@@ -1,1 +1,1 @@
-# firstProject
+# Inventory Management System in Laravel
